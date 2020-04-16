@@ -64,11 +64,12 @@ const questions = [
     }
 ];
 
-inquirer
-.prompt(questions)
-// prompt username question
-    // make the call to the Github API to retrieve profile image
-.then(function(answers){
+async function init() {
+    var answers = await inquirer
+    .prompt(questions);
+    // prompt username question
+        // make the call to the Github API to retrieve profile image
+
     api.getUser(answers.username)
     .then(function(response){
         var response = response.data;
@@ -94,4 +95,6 @@ inquirer
             }
         })
     });
-})
+}
+
+init();

@@ -4,7 +4,7 @@ function generateMarkdown(data) {
   console.log(data);
   return `
 
-![badge]("https://img.shields.io/github/followers/${data.username}?style=social")
+![badge](https://img.shields.io/github/followers/${data.username}?style=social)
 
 # ${data.projectTitle}
 

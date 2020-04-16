@@ -44,6 +44,8 @@ When creating an open source project on GitHub, it is important to have a qualit
 * The generated README includes 1 badge that's specific to the repository.
 
 ```
-Given the developer has a GitHub profile and a repository,when prompted for the developer's GitHub username and repo specific information then a README for the repo is generated
+Given the developer has a GitHub profile and a repository, when prompted for the developer's GitHub username and repo specific information then a README for the repo is generated
 
 ```
+
+![GIF](https://media.giphy.com/media/RISqSmOedBoMLIzHbe/giphy.gif)

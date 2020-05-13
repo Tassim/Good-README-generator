@@ -48,4 +48,6 @@ Given the developer has a GitHub profile and a repository, when prompted for the
 
 ```
 
-![GIF](https://media.giphy.com/media/RISqSmOedBoMLIzHbe/giphy.gif)
+![GIF](https://drive.google.com/file/d/1JqOJD1QLIv4CaYKH1NtmsrT6aehbssW_/view)
+
+![Link to app] (https://tassim.github.io/homework7/)

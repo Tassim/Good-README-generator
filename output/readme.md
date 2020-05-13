@@ -1,11 +1,9 @@
+![badge](https://img.shields.io/github/followers/bobmarley?style=social)
 
-
-![badge](https://img.shields.io/github/followers/tassim?style=social)
-
-# sajdnajksd
+# Music
 
 ## Description
-asdnakjsdn
+light up the darkness
 
 ## Table of contents
 1. Installation
@@ -15,20 +13,20 @@ asdnakjsdn
 5. Tests
 
 ### Instalallation
-asdnkajsnd
+sit, chill and listen
 
 ### Usage
-asdkjnasd
+dont worry
 
 ### License
-asdjnkjsad
+about a thing
 
 ### Contributing
-asjdnkjansd
+couse everything little thing
 
 ### Tests
-askdjnjksad
+is gonna be alright
 
 ## Questions
-[nskdjna](nskdjna)
-![logo](https://avatars0.githubusercontent.com/u/60808836?v=4)
+[bmarley@gmail.com](bmarley@gmail.com)
+![logo](https://avatars2.githubusercontent.com/u/224422?v=4)

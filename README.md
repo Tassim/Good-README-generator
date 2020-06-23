@@ -5,9 +5,6 @@ Command-line application that dynamically generates a README.md from a user's in
 ```sh
 node index.js
 ```
-
-Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
-
 ## User Story
 
 ```
@@ -48,6 +45,6 @@ Given the developer has a GitHub profile and a repository, when prompted for the
 
 ```
 
-![GIF](https://drive.google.com/file/d/1JqOJD1QLIv4CaYKH1NtmsrT6aehbssW_/view)
+![App image](./assets/goodreadmeGenrator.png)
 
 ![Link to app] (https://tassim.github.io/homework7/)

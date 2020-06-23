@@ -1,9 +1,11 @@
-![badge](https://img.shields.io/github/followers/bobmarley?style=social)
 
-# Music
+
+![badge](https://img.shields.io/github/followers/Tassim?style=social)
+
+# Good readme generator
 
 ## Description
-light up the darkness
+Build in the commnd line a good read me
 
 ## Table of contents
 1. Installation
@@ -13,20 +15,20 @@ light up the darkness
 5. Tests
 
 ### Instalallation
-sit, chill and listen
+N/A
 
 ### Usage
-dont worry
+In the command line, run node index.js, respond all the questions
 
 ### License
-about a thing
+93824782
 
 ### Contributing
-couse everything little thing
+...
 
 ### Tests
-is gonna be alright
+...
 
 ## Questions
-[bmarley@gmail.com](bmarley@gmail.com)
-![logo](https://avatars2.githubusercontent.com/u/224422?v=4)
+[tassia.shibuya@gmail.com](tassia.shibuya@gmail.com)
+![logo](https://avatars0.githubusercontent.com/u/60808836?v=4)

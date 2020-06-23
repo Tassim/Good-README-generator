@@ -45,6 +45,6 @@ Given the developer has a GitHub profile and a repository, when prompted for the
 
 ```
 
-![App image](./assets/goodreadmeGenrator.png)
+![App image](../assets/goodreadmeGenrator.png)
 
 ![Link to app] (https://tassim.github.io/homework7/)
